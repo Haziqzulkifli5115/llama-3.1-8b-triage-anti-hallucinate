@@ -1,0 +1,7 @@
+.env
+*.gguf
+*.safetensors
+*.bin
+checkpoint-*/
+outputs/
+__pycache__/

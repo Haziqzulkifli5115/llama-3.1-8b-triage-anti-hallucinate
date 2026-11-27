@@ -1,0 +1,5 @@
+unsloth
+huggingface_hub
+transformers
+peft
+torch
